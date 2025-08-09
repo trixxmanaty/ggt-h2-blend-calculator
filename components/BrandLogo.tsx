@@ -1,0 +1,1 @@
+export default function BrandLogo(){return(<div className='flex items-center gap-2'><div className='h-8 w-8 rounded-full bg-primary'/><span className='font-semibold'>GreenGasTurbines</span></div>)}
